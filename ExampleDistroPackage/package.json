@@ -1,0 +1,16 @@
+{
+  "name": "com.example.package",
+  "version": "1.1.2",
+  "displayName": "EXCITING Demonstration Package",
+  "unity": "2021.3",
+  "unityRelease": "18f1",
+  "author": {
+    "name": "Generic Developer Person",
+    "email": "yourmom@support.com",
+    "url": "https://www.google.com"
+  },
+  "description": "This is an EXCITING Demonstration Package to try to distribute stuff from GitHub.",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  }
+}
